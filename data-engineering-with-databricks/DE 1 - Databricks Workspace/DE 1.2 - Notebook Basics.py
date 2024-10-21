@@ -88,11 +88,6 @@ print("I'm running Python!")
 
 # COMMAND ----------
 
-# MAGIC %sql;
-# MAGIC select 'Test';
-
-# COMMAND ----------
-
 # MAGIC %md
 # MAGIC
 # MAGIC ### Create and Run a SQL Cell
@@ -104,10 +99,6 @@ print("I'm running Python!")
 # MAGIC **`SELECT "I'm running SQL!"`**
 # MAGIC
 # MAGIC **NOTE**: There are a number of different methods for adding, moving, and deleting cells including GUI options and keyboard shortcuts. Refer to the <a href="https://docs.databricks.com/notebooks/notebooks-use.html#develop-notebooks" target="_blank">docs</a> for details.
-
-# COMMAND ----------
-
-
 
 # COMMAND ----------
 
